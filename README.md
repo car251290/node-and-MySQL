@@ -1,4 +1,4 @@
-# Summary
+# Summary about the project
 Create a database to log into, a user, password, using MySQL, simple code that help me to understand better about MySQL giving me the experience to work in the future using this tool.
 
  # language Use it in this project: 👨‍💻 💻
@@ -7,7 +7,6 @@ Create a database to log into, a user, password, using MySQL, simple code that h
 <li> Node </li>
 <li> MYSQL </li>
 <li>HTML & CSS </li>
-
 
 
 
